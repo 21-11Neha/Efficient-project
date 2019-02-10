@@ -127,7 +127,7 @@ font-size: 2.5rem;
  	margin-left: 1%;
  }
  
- @media (max-width: 896px){
+ @media (max-width: 1028px){
   .dog{
   	position:static;
   	transform:rotate(0);
